@@ -9,7 +9,7 @@
 /.settings/*
 
 # Idea projects files
-.iml
+*.iml
 .idea/*
 
 # Mobile Tools for Java (J2ME)
