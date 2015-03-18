@@ -1,7 +1,7 @@
 [
     {
         "name": "Kristina H. Chung",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_0.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_0.jpg",
         "account": "NL48ATXJ3912592517",
         "details": [
             {
@@ -18,7 +18,7 @@
     },
     {
         "name": "Paige H. Chen",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_1.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_1.jpg",
         "account": "NL69RNOU8474512566",
         "details": [
             {
@@ -35,7 +35,7 @@
     },
     {
         "name": "Sherri E. Melton",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_2.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_2.jpg",
         "account": "NL40RMAS6606264936",
         "details": [
             {
@@ -52,7 +52,7 @@
     },
     {
         "name": "Gretchen I. Hill",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_3.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_3.jpg",
         "account": "NL95RINZ8229034850",
         "details": [
             {
@@ -69,7 +69,7 @@
     },
     {
         "name": "Karen U. Puckett",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_6.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_6.jpg",
         "account": "NL81WTXT2034958935",
         "details": [
             {
@@ -86,7 +86,7 @@
     },
     {
         "name": "Patrick O. Song",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_7.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_7.jpg",
         "account": "NL09DTCS5601923720",
         "details": [
             {
@@ -103,7 +103,7 @@
     },
     {
         "name": "Elsie A. Hamilton",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_8.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_8.jpg",
         "account": "NL78JUDO8940584114",
         "details": [
             {
@@ -120,7 +120,7 @@
     },
     {
         "name": "Hazel E. Bender",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_9.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_9.jpg",
         "account": "NL49QAVA5280922876",
         "details": [
             {
@@ -137,7 +137,7 @@
     },
     {
         "name": "Malcolm A. Wagner",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_10.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_10.jpg",
         "account": "NL20MHWU2699022126",
         "details": [
             {
@@ -154,7 +154,7 @@
     },
     {
         "name": "Dolores C. McLaughlin",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_11.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_11.jpg",
         "account": "NL13PSMP9854837164",
         "details": [
             {
@@ -171,7 +171,7 @@
     },
     {
         "name": "Francis C. McNamara",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_12.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_12.jpg",
         "account": "NL98DVPS3280790999",
         "details": [
             {
@@ -188,7 +188,7 @@
     },
     {
         "name": "Sandy A. Raynor",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_13.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_13.jpg",
         "account": "NL36KNKW2123363424",
         "details": [
             {
@@ -205,7 +205,7 @@
     },
     {
         "name": "Marion O. Moon",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_14.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_14.jpg",
         "account": "NL10BWFU6532111321",
         "details": [
             {
@@ -222,7 +222,7 @@
     },
     {
         "name": "Beth O. Woodard",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_15.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_15.jpg",
         "account": "NL24DACF7929818297",
         "details": [
             {
@@ -239,7 +239,7 @@
     },
     {
         "name": "Julia E. Desai",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_16.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_16.jpg",
         "account": "NL82WMFM2106845194",
         "details": [
             {
@@ -256,7 +256,7 @@
     },
     {
         "name": "Jerome A. Wallace",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_17.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_17.jpg",
         "account": "NL90GXMX6217696034",
         "details": [
             {
@@ -273,7 +273,7 @@
     },
     {
         "name": "Neal A. Lawrence",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_18.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_18.jpg",
         "account": "NL45IQEP7651007907",
         "details": [
             {
@@ -290,7 +290,7 @@
     },
     {
         "name": "Jean R. Griffin",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_20.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_20.jpg",
         "account": "NL79VQRG9758624220",
         "details": [
             {
@@ -307,7 +307,7 @@
     },
     {
         "name": "Kristine O. Dougherty",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_21.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_21.jpg",
         "account": "NL80JBHC9247196750",
         "details": [
             {
@@ -324,7 +324,7 @@
     },
     {
         "name": "Crystal O. Powers",
-        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_22.jpg",
+        "photoUrl": "/testserver/static/mock-images/contacts/contactPic_22.jpg",
         "account": "NL45PDTF7444393828",
         "details": [
             {
