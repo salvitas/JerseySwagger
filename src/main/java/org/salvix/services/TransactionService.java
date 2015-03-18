@@ -26,7 +26,7 @@ import java.util.List;
 
 @Path("/transactions")
 @Api(value = "/transactions", description = "Operations about Transactions")
-@Produces({ "application/json", "text/xml" })
+@Produces({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
 public class TransactionService {
 
     @GET

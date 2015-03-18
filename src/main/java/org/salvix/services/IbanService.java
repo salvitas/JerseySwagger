@@ -26,7 +26,7 @@ import java.util.List;
 
 @Path("/ibans")
 @Api(value = "/ibans", description = "Operations about Ibans")
-@Produces({ "application/json", "text/xml" })
+@Produces({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
 public class IbanService {
 
     @GET

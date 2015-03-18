@@ -26,7 +26,7 @@ import java.util.List;
 
 @Path("/contacts")
 @Api(value = "/contacts", description = "Operations about contacts")
-@Produces({ "application/json", "text/xml" })
+@Produces({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
 public class ContactService {
 
 
