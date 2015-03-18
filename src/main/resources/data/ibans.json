@@ -1,0 +1,38 @@
+[
+    {
+        "countryCode":"NL",
+        "countryName":"The Netherlands",
+        "ibanLength":18,
+        "ibanRegex":"^NL\\d{2}[A-Za-z]{4}\\d{10}$"
+    },
+    {
+        "countryCode":"HU",
+        "countryName":"Hungary",
+        "ibanLength":28,
+        "ibanRegex":"^HU\\d{26}$"
+    },
+    {
+        "countryCode":"IE",
+        "countryName":"Ireland",
+        "ibanLength":22,
+        "ibanRegex":"^IE\\d{2}[A-Za-z]{4}\\d{14}$"
+    },
+    {
+        "countryCode":"DE",
+        "countryName":"Germany",
+        "ibanLength":22,
+        "ibanRegex":"^DE\\d{20}$"
+    },
+    {
+        "countryCode":"GR",
+        "countryName":"Greece",
+        "ibanLength":27,
+        "ibanRegex":"^GR\\d{25}$"
+    },
+    {
+        "countryCode":"GB",
+        "countryName":"United Kingdom",
+        "ibanLength":22,
+        "ibanRegex":"^GB\\d{2}[A-Za-z]{4}\\d{14}$"
+    }
+]

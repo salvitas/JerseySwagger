@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Shared Account",
+        "currency": "EUR",
+        "groupCode":"INVESTMENT",
+        "iban": "NL66INGB0280680457"
+    },
+    {
+        "name":"Personal Checking Account",
+        "currency": "EUR",
+        "groupCode":"CASH",
+        "iban": "NL67RABO0842497587"
+    },
+    {
+        "name":"Business Account",
+        "currency": "EUR",
+        "groupCode":"CREDIT",
+        "iban": "NL56ABNA0519431642"
+    }
+]

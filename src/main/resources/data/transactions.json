@@ -1,0 +1,9 @@
+[
+    {
+        "counterPartyName": "The Tea Lounge",
+        "counterPartyAccount": "NL69RNOU8474512566",
+        "counterPartyLogoPath": "tealounge.png",
+        "instructedCurrency": "EUR",
+        "transactionCurrency": "EUR"
+    }
+]

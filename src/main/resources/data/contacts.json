@@ -1,0 +1,342 @@
+[
+    {
+        "name": "Kristina H. Chung",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_0.jpg",
+        "account": "NL48ATXJ3912592517",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"cristina@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Amsterdam"
+            }
+        ]
+    },
+    {
+        "name": "Paige H. Chen",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_1.jpg",
+        "account": "NL69RNOU8474512566",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"paige@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Amsterdam"
+            }
+        ]
+    },
+    {
+        "name": "Sherri E. Melton",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_2.jpg",
+        "account": "NL40RMAS6606264936",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"sherri@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"New York"
+            }
+        ]
+    },
+    {
+        "name": "Gretchen I. Hill",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_3.jpg",
+        "account": "NL95RINZ8229034850",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"gretchen@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Amsterdam"
+            }
+        ]
+    },
+    {
+        "name": "Karen U. Puckett",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_6.jpg",
+        "account": "NL81WTXT2034958935",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"Karen@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Moscow"
+            }
+        ]
+    },
+    {
+        "name": "Patrick O. Song",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_7.jpg",
+        "account": "NL09DTCS5601923720",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"patrick@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Paris"
+            }
+        ]
+    },
+    {
+        "name": "Elsie A. Hamilton",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_8.jpg",
+        "account": "NL78JUDO8940584114",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"elsie@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"London"
+            }
+        ]
+    },
+    {
+        "name": "Hazel E. Bender",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_9.jpg",
+        "account": "NL49QAVA5280922876",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"hazel@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Amsterdam"
+            }
+        ]
+    },
+    {
+        "name": "Malcolm A. Wagner",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_10.jpg",
+        "account": "NL20MHWU2699022126",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"malcolm@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"New York"
+            }
+        ]
+    },
+    {
+        "name": "Dolores C. McLaughlin",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_11.jpg",
+        "account": "NL13PSMP9854837164",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"dolores@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Seattle"
+            }
+        ]
+    },
+    {
+        "name": "Francis C. McNamara",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_12.jpg",
+        "account": "NL98DVPS3280790999",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"francis@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Rome"
+            }
+        ]
+    },
+    {
+        "name": "Sandy A. Raynor",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_13.jpg",
+        "account": "NL36KNKW2123363424",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"sandy@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Marion O. Moon",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_14.jpg",
+        "account": "NL10BWFU6532111321",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"marion@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Washington"
+            }
+        ]
+    },
+    {
+        "name": "Beth O. Woodard",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_15.jpg",
+        "account": "NL24DACF7929818297",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"beth@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Brussels"
+            }
+        ]
+    },
+    {
+        "name": "Julia E. Desai",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_16.jpg",
+        "account": "NL82WMFM2106845194",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"julia@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Moscow"
+            }
+        ]
+    },
+    {
+        "name": "Jerome A. Wallace",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_17.jpg",
+        "account": "NL90GXMX6217696034",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"jerome@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Leeds"
+            }
+        ]
+    },
+    {
+        "name": "Neal A. Lawrence",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_18.jpg",
+        "account": "NL45IQEP7651007907",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"neal@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"New York"
+            }
+        ]
+    },
+    {
+        "name": "Jean R. Griffin",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_20.jpg",
+        "account": "NL79VQRG9758624220",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"jean@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Los Angeles"
+            }
+        ]
+    },
+    {
+        "name": "Kristine O. Dougherty",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_21.jpg",
+        "account": "NL80JBHC9247196750",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"kris@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Amsterdam"
+            }
+        ]
+    },
+    {
+        "name": "Crystal O. Powers",
+        "photoUrl": "/portalserver/static/mock-images/contacts/contactPic_22.jpg",
+        "account": "NL45PDTF7444393828",
+        "details": [
+            {
+                "name":"email",
+                "type":"string",
+                "value":"crystal@example.com"
+            },
+            {
+                "name":"city",
+                "type":"string",
+                "value":"Sydney"
+            }
+        ]
+    }
+]

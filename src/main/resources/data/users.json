@@ -1,0 +1,87 @@
+[
+  {
+    "username": "lisa",
+    "password": "password",
+    "citizenship": "The Netherlands",
+    "firstName": "Lisa",
+    "lastName": "Nijus",
+    "identityNumber": "12345",
+    "gender": "FEMALE",
+    "dateOfBirth": 326152800000,
+    "useOTP": false,
+    "locations": [
+      {
+        "name": "phoneNumber",
+        "value": "+16464787533",
+        "json": false
+      },
+      {
+        "name": "emailAddress",
+        "value": "lisa.launchpad@backbase.com",
+        "json": false
+      },
+      {
+        "name": "correspondenceAddress",
+        "value": "street: Jacob Bontiusplaats,house: 9,stateAbbr: NL,town: Amsterdam,zip: 1018LL",
+        "json": true
+      }
+    ],
+    "preferences": [
+      {
+        "name": "preferredName",
+        "type": "string",
+        "value": "Lisa Nijus"
+      },
+      {
+        "name": "crmSegment",
+        "type": "string",
+        "value": "home"
+      },
+      {
+        "name": "industry",
+        "type": "string",
+        "value": "IT"
+      }
+    ]
+  },
+  {
+    "username": "salva",
+    "password": "salva",
+    "citizenship": "The Netherlands",
+    "firstName": "Salvador",
+    "lastName": "Vilarrasa",
+    "identityNumber": "12345",
+    "gender": "MALE",
+    "dateOfBirth": 326152800000,
+    "useOTP": false,
+    "locations": [
+      {
+        "name": "phoneNumber",
+        "value": "+16464787533",
+        "json": false
+      },
+      {
+        "name": "emailAddress",
+        "value": "salva@backbase.com",
+        "json": false
+      },
+      {
+        "name": "correspondenceAddress",
+        "value": "street: Jacob Bontiusplaats,house: 9,stateAbbr: NL,town: Amsterdam,zip: 1018LL",
+        "json": true
+      }
+    ],
+    "preferences": [
+      {
+        "name": "preferredName",
+        "type": "string",
+        "value": "Salva"
+      },
+      {
+        "name": "industry",
+        "type": "string",
+        "value": "IT"
+      }
+    ]
+  }
+]

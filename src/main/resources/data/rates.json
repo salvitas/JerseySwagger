@@ -1,0 +1,8 @@
+[
+    {
+        "sourceCurrency": "EUR",
+        "targetCurrency": "USD",
+        "exchangeRate": 1.38,
+        "isPreferred": true
+    }
+]
